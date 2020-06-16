@@ -1,7 +1,7 @@
 number = 60
 
 def countdown_with_sleep(number)
-  
+  sleep()
 
 def countdown(number)
   while number > 0
