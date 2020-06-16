@@ -1,10 +1,8 @@
 number = 60
+seconds = 1
 
-def countdown_with_sleep(number)
-  while number > 0
-    sleep(1)
-    number -=1
-  end
+def countdown_with_sleep(seconds)
+  sleep(seconds)
 end
 
 def countdown(number)
