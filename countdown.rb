@@ -1,6 +1,6 @@
 number = 60
 
-def countdown_with_sleep(number)
+def countdown_with_sleep
   sleep(1)
 end
 
